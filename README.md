@@ -26,6 +26,7 @@ I’m an **AI Engineer / Researcher** focusing on
 <p align="left">
 <a href="https://twitter.com/uhey_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhey_7" height="30" width="40" /></a>
 <a href="mailto:pepushi514@gmial.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pepushi514@gmial.com"/></a>
+<a href="https://uhey77.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
