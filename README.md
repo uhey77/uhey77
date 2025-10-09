@@ -58,8 +58,3 @@ Focusing on **multi-agent orchestration**, **LoRA fine-tuning**, and **LLM-based
     <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
   </h1>
 </div>
-
----
-
-## 💡 Keywords
-`AI Proofreading` · `LLM Evaluation` · `Multimodal Research` · `Explainable AI` · `Automation System Design` · `Data Science`
