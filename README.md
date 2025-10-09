@@ -16,12 +16,8 @@
 
 I’m an **AI Engineer / Researcher** focusing on  
 - Explainable AI (XAI)  
-- Large Language Models (LLMs)  
-- Multimodal Systems (Vision × Language)  
+- Large Language Models (LLMs)   
 - Automation pipelines for content generation  
-
-Currently developing **AI proofreading systems**, **LLM evaluation pipelines**, and **video generation automation** tools at **neoAI**.  
-I’m passionate about creating systems that bridge **research and real-world applications**.
 
 ---
 
