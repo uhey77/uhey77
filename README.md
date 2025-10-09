@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
+# AI Engineer n Japan👋
+### Just 23 years old 
 ### Feel free to contact me anytime!👍
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
