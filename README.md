@@ -1,5 +1,5 @@
 # 🧠 AI Engineer in Japan
-### 👋 Hi, I'm Yuhei Yamada (neoAI)
+### 👋 Hi, I'm Yuhei Yamada
 ### 🚀 Working on Multimodal R&D, and automation systems.
 
 ---
