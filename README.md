@@ -4,8 +4,8 @@
 **Yuhei Yamada | Multimodal R&D / Automation**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&card_width=420" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=320" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&card_width=420" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=320" alt="Top languages" />
 </p>
 
 ---
