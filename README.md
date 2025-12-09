@@ -3,8 +3,10 @@
 # 🧠 AI Engineer in Japan  
 **Yuhei Yamada | Multimodal R&D / Automation**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&card_width=420)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=320)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&card_width=420" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=320" alt="Top languages" />
+</p>
 
 ---
 
