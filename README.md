@@ -4,9 +4,9 @@
 **Yuhei Yamada | Research & Developer**
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&v=4" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&v=4" alt="GitHub stats" />
   <br />
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=445&v=4" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uhey77&layout=compact&theme=vue-dark&card_width=445&v=4" alt="Top languages" />
 </p>
 
 ---
