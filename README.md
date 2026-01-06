@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠 AI Engineer in Japan  
-**Yuhei Yamada | Multimodal R&D / Automation**
+**Yuhei Yamada | Research & Developer**
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uhey77&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&card_width=420" alt="GitHub stats" />
